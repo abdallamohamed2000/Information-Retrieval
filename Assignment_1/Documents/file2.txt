@@ -1,0 +1,8 @@
+Cairo University
+Faculty of Computers and Information
+Information Systems Department
+Methodology to convert specification to implementation in information systems
+A thesis submitted in partial fulfillment of the requirements for the degree of 
+Master of Science in Computers and Information Systems
+Submitted by
+Shaimaa Mohamed Galal
